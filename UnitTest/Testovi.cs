@@ -99,7 +99,7 @@ namespace UnitTest
                 IdKupca = 1,
                 IdKupljenihProizvoda = new List<int>() { 1, 2, 3 },
                 IdKupovine = 2
-            };
+            }; 
 
             Proizvod proizvod1 = new Proizvod
             {
